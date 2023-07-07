@@ -1,0 +1,1 @@
+insert into users(id, login, password) values (0, 'test-login', 'qwerty');
